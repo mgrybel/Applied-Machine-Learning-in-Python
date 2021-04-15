@@ -3,3 +3,4 @@
 *.pyc
 .DS_Store
 assignments/.ipynb_checkpoints/assignment_1-checkpoint.ipynb
+.ipynb_checkpoints/module_2-checkpoint.ipynb
